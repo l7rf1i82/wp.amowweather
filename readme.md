@@ -3,6 +3,7 @@ Show current weather forecast from https://api.openweathermap.org
 
 ## Requirements:
 - php ^7.4
+- composer(installation instruction: https://getcomposer.org/download/)
 - node.js ^18.0
 - wordpress ^6.0
 
