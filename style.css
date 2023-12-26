@@ -1,0 +1,9 @@
+.amoweather-widget { 
+    color: black;
+    position: fixed;
+    top: 40px;
+    left: 20px;
+    background: white;
+    padding: 10px;
+    border: 1px solid black;
+}
